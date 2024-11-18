@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  argocd-clustergenerator-helm:
+  - apiVersion: v2
+    appVersion: 0.0.1
+    created: "2024-11-18T21:13:06.573266197Z"
+    description: A Helm chart for Kubernetes
+    digest: ef9466715e7f765a665710d8ca4339cd011edb1b5e7c5167336a1f2b63962749
+    name: argocd-clustergenerator-helm
+    type: application
+    urls:
+    - https://github.com/swemarx/argocd-clustergenerator-helm/releases/download/argocd-clustergenerator-helm-0.1.0/argocd-clustergenerator-helm-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-11-18T21:13:06.573276166Z"
